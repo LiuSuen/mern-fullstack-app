@@ -19,25 +19,24 @@ This is what this app does.
 2. HTML, CSS
 
 ### Deployment - to be done
-<span style="color:gray">
-1. Set up Microservices
-2. Dockerization
-3. Deploy to AWS using kubernetes
-    - Set up an AWS Kubernetes Cluster
-    - Deploy Microservices to the Cluster
-</span>
+1. Set up Microservices  
+2. Dockerization  
+3. Deploy to AWS using kubernetes  
+    - Set up an AWS Kubernetes Cluster  
+    - Deploy Microservices to the Cluster  
+
 
 ## Usage
 
 ### Install dependencies
-'''
+```
 # Server deps
 npm install
 # client deps
 cd client
 npm install
-'''
+```
 ### Run server
-'''
+```
 npm run server
-'''
+```
